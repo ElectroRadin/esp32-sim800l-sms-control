@@ -21,3 +21,4 @@ Remote control of electrical appliances with ESP32 and SIM800L via SMS! 📲
 Password: electroradin
 
 
+![photo_2025-03-29_00-39-57](https://github.com/user-attachments/assets/f91720ae-0a35-4d98-8474-4815e1511ab8)
